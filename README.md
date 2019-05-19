@@ -1,2 +1,0 @@
-# project-laravel
-immersion project
